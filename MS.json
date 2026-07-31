@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.4.0",
+      "date": "2026-07-30",
+      "changelog": "Initial release, generated via Depot using 2022 LODES and OSM data",
+      "download": "https://github.com/JayToTheAy/subwaybuilder-map/releases/download/v1.0.0/MS.zip",
+      "sha256": "b1351d83c3eb76981846972ba5b365d908db740eb94ee39db32b36c5aa0f5ba9"
+    }
+  ]
+}
