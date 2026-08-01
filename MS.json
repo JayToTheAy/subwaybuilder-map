@@ -8,6 +8,14 @@
       "changelog": "Initial release, generated via Depot using 2022 LODES and OSM data",
       "download": "https://github.com/JayToTheAy/subwaybuilder-map/releases/download/v1.0.0/MS.zip",
       "sha256": "b1351d83c3eb76981846972ba5b365d908db740eb94ee39db32b36c5aa0f5ba9"
-    }
+    },
+	{
+	  "version": "1.1.0",
+      "game_version": ">=1.4.0",
+      "date": "2026-07-30",
+      "changelog": "Update to 2023 LODES data, reduce max pop size to 80 to work better w.ith smaller vehicles, add demand for VNMP and MCRM",
+      "download": "https://github.com/JayToTheAy/subwaybuilder-map/releases/download/v.1.1.0/MS.zip",
+      "sha256": "sha256:368ee6db5d5c7c9abf08c90b703795a7fb7e0083c3dfc747f7e3ad75dd6bb10b"
+	}
   ]
 }
